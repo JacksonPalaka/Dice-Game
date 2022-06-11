@@ -42,3 +42,6 @@ hr{
     border-radius:10px;
     margin-top:50px;
 }
+.btn:hover{
+    background-color:#4ECCA3;
+}
